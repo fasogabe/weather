@@ -12,7 +12,7 @@
     and any port number (such as 8888). When it is ready to serve, open
     a browser and access the svg file by using the following format:
 
-            <serper_ip>:<server_port>/<filename>.svg
+            <server_ip>:<server_port>/<filename>.svg
 
     Currently, weather_data creates a file called temps.svg.
 '''
